@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1753232261",layout:"default",error:a,serverRendered:true,routePath:b,config:{name:"Stephen Fray Young",dates:"February 16th 1949 - Jan 30th 2025",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"\u002F"));
